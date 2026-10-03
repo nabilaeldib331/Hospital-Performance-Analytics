@@ -46,17 +46,16 @@ An end-to-end analytics project on a multi-hospital system: synthetic patient da
 ## Repository contents
 
 ```
-01_generate_dimensions.py   creates the dimension tables
-02_generate_admissions.py   creates admissions and lab results
-analysis_queries.sql        SQL queries behind each finding
-hospital_analytics.pbix     the Power BI report
-data/                       the six CSV files
-screenshots/                dashboard pages
+Data_Generation.ipynb     Python notebook that generates the synthetic data
+analysis_queries.sql               SQL queries behind each finding
+hospital_analytics.pbix            the Power BI report
+data/                              the six CSV files
+screenshots/                       dashboard pages
 ```
 
 ## How to reproduce
 
-1. Run `01_generate_dimensions.py`, then `02_generate_admissions.py`. They write the CSVs to `data/`.
+1. Run `hospital_data_generation.ipynb` from top to bottom. It writes the CSVs to `data/`.
 2. Import the six CSVs into a SQL Server database named `hospital_analytics`.
 3. Run `analysis_queries.sql` to see the results behind each finding.
 4. Open `hospital_analytics.pbix` in Power BI Desktop. The report stores its own copy of the data, so it opens without a database connection.

@@ -65,7 +65,7 @@ screenshots/                       dashboard pages
 ## Limitations
 
 - The data is synthetic, so the patterns reflect how it was generated.
-- The `smoker` field is included as a patient attribute but has no modeled effect on stays or readmissions.
+- The smoker field is included as a patient attribute but has no modeled effect on stays or readmissions.
 - Costs are in generic cost units.
 
 ## Author

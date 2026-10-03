@@ -1,0 +1,13 @@
+diagnosis_id,icd10_code,diagnosis,department_id,base_los_days,base_cost
+1,I21,Acute myocardial infarction,2,5,18000
+2,I50,Heart failure,2,6,14000
+3,E11,Type 2 diabetes,3,4,6000
+4,J21,Bronchiolitis,6,3,4500
+5,J44,COPD,3,5,7500
+6,J18,Pneumonia,3,5,8000
+7,N18,Chronic kidney disease,3,6,9000
+8,K35,Acute appendicitis,4,3,9500
+9,S72,Femur fracture,5,9,22000
+10,C34,Lung cancer,8,7,25000
+11,O80,Normal delivery,7,2,3500
+12,A41,Sepsis,1,10,30000

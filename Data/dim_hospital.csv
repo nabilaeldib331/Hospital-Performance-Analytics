@@ -1,0 +1,7 @@
+hospital_id,hospital_name,region,type,beds
+1,Riverside General,Central,General,450
+2,Summit Heart Institute,North,Specialty,180
+3,Harbor Medical Center,Coastal,General,320
+4,Cedar Teaching Hospital,Central,Teaching,600
+5,Northgate Community,North,Community,220
+6,Lakeview Specialty,Coastal,Specialty,150

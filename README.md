@@ -18,13 +18,13 @@ An end-to-end analytics project on a multi-hospital system: synthetic patient da
 
 | Overview | Readmissions |
 |---|---|
-| ![Overview](screenshots/1_overview.png) | ![Readmissions](screenshots/2_readmissions.png) |
+| ![Overview](screenshots/1_overview.jpg) | ![Readmissions](screenshots/2_readmissions.jpg) |
 
 | Capacity | Cost |
 |---|---|
-| ![Capacity](screenshots/3_capacity.png) | ![Cost](screenshots/4_cost.png) |
+| ![Capacity](screenshots/3_capacity.jpg) | ![Cost](screenshots/4_cost.jpg) |
 
-![Patients](screenshots/5_patients.png)
+![Patients](screenshots/5_patients.jpg)
 
 ## The data
 

@@ -24,6 +24,7 @@ An end-to-end analytics project on a multi-hospital system: synthetic patient da
 |---|---|
 | ![Capacity](screenshots/capacity.jpg) | ![Cost](screenshots/cost.jpg) |
 
+| Patients |
 ![Patients](screenshots/patients.jpg)
 
 ## The data

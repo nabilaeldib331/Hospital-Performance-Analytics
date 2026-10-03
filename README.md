@@ -42,7 +42,7 @@ An end-to-end analytics project on a multi-hospital system: synthetic patient da
 ## Tools and skills
 
 - **Python** (pandas, NumPy): synthetic data generation with realistic relationships
-- **SQL Server**: database design (star schema), joins, CTEs, `CASE`, aggregation
+- **SQL Server**: database design (star schema), joins, CTEs, CASE, aggregation
 - **Power BI**: data modeling, DAX measures and calculated columns, 5 report pages, synced slicers, page navigation, decomposition tree
 
 ## Repository contents
